@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Larisaaqilagmail.com</name>
+   <tag></tag>
+   <elementGuidId>d797d783-3629-4ca8-9bdc-acb5324f6741</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Larisa Aqila'])[1]/following::td[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>9816c681-7c98-406d-9a58-1ca614ba7cd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-3 px-5</value>
+      <webElementGuid>34047dbc-681b-4a27-81e0-3cea61221a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Larisaaqila@gmail.com
+                </value>
+      <webElementGuid>89a58f18-89bf-4ae7-a859-d8f9058ca1e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;font-sans antialiased&quot;]/div[@class=&quot;min-h-screen bg-gray-100&quot;]/main[1]/div[@class=&quot;py-12&quot;]/div[@class=&quot;max-w-7xl mx-auto sm:px-6 lg:px-8&quot;]/div[@class=&quot;bg-white overflow-hidden shadow-xl sm:rounded-lg p-5&quot;]/table[@class=&quot;w-full text-md rounded mb-4&quot;]/tbody[1]/tr[@class=&quot;border-b hover:bg-orange-100&quot;]/td[@class=&quot;p-3 px-5&quot;]</value>
+      <webElementGuid>91dfafe1-7d27-42c3-ab5c-6607216964ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Larisa Aqila'])[1]/following::td[1]</value>
+      <webElementGuid>194a50a7-132e-4fc2-9b88-1f892ed20caa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::td[2]</value>
+      <webElementGuid>a85b07e5-97cb-4363-8f24-6a0547e21fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::td[2]</value>
+      <webElementGuid>1eb9c1db-1636-467b-abd6-ac26a91d08b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceed'])[1]/preceding::td[2]</value>
+      <webElementGuid>0fd4bf6e-c650-4f91-8c9d-8c487a3e5114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Larisaaqila@gmail.com']/parent::*</value>
+      <webElementGuid>62d9ff6f-2690-4dc4-b0a1-084f23f7c34e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>b7b4c943-6a41-4b9f-9433-680882c40ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                  Larisaaqila@gmail.com
+                ' or . = '
+                  Larisaaqila@gmail.com
+                ')]</value>
+      <webElementGuid>3e562e43-25b6-45aa-911d-502e874f9284</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

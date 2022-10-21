@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_088299032554</name>
+   <tag></tag>
+   <elementGuidId>e7d25b4b-3422-48f7-ab84-65b05f4d21ba</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='sabrina@gmail.com'])[1]/following::td[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c3d754c7-7097-474d-be5f-09ee1b36918b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-3 px-5</value>
+      <webElementGuid>7d3bde4b-1033-4b6c-b8fc-b1ff7caafe71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  088299032554
+                </value>
+      <webElementGuid>a21eeaf3-8b9a-4489-91c4-e5660ba82188</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;font-sans antialiased&quot;]/div[@class=&quot;min-h-screen bg-gray-100&quot;]/main[1]/div[@class=&quot;py-12&quot;]/div[@class=&quot;max-w-7xl mx-auto sm:px-6 lg:px-8&quot;]/div[@class=&quot;bg-white overflow-hidden shadow-xl sm:rounded-lg p-5&quot;]/table[@class=&quot;w-full text-md rounded mb-4&quot;]/tbody[1]/tr[@class=&quot;border-b hover:bg-orange-100&quot;]/td[@class=&quot;p-3 px-5&quot;]</value>
+      <webElementGuid>5bd6ee6b-8bc2-4167-8cc6-db3cec582a80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sabrina@gmail.com'])[1]/following::td[1]</value>
+      <webElementGuid>93315919-b42b-4592-a49d-98dc06de964b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sabrina'])[1]/following::td[2]</value>
+      <webElementGuid>6537dd0d-470d-4fee-ac0f-d89a08747dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::td[1]</value>
+      <webElementGuid>21ca31fd-149e-4f9c-8f2f-86f256743fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceed'])[1]/preceding::td[1]</value>
+      <webElementGuid>0e1f945c-9540-4efa-9467-6a82c4110ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='088299032554']/parent::*</value>
+      <webElementGuid>47ab7df6-a00c-4c16-973f-5b333c0af83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>cab75a64-d461-4d10-a227-ffe10798268f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '
+                  088299032554
+                ' or . = '
+                  088299032554
+                ')]</value>
+      <webElementGuid>ba9dedac-13a2-4c01-84be-40aa6e5cd509</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

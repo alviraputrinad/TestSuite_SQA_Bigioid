@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_The name field is required</name>
+   <tag></tag>
+   <elementGuidId>b03ed6eb-b020-4770-bb4e-791f9e8121a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-danger</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8305cd1-3654-4ca7-bdad-23cbf1aa6b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>3fbb7b86-e52b-4e51-8719-fda6bf603760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The name field is required.</value>
+      <webElementGuid>243d52e5-8525-43d9-9c60-854bab5663e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;font-sans text-gray-900 antialiased&quot;]/div[@class=&quot;min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;max-w-md w-full space-y-8&quot;]/div[@class=&quot;rounded bg-white max-w-md rounded overflow-hidden shadow-xl p-5&quot;]/form[@class=&quot;space-y-4&quot;]/div[@class=&quot;rounded-md shadow-sm -space-y-px&quot;]/div[@class=&quot;grid gap-6&quot;]/div[@class=&quot;col-span-12&quot;]/span[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>1541f01e-05b7-40b3-897e-74cd4c4674ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>22db3eee-da5e-4a6a-8502-8eaf6fc3ddae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-danger</value>
+      <webElementGuid>05eac76f-b454-436d-a433-c70bf476b0d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The name field is required.</value>
+      <webElementGuid>8b1cb4f0-61be-4c16-a9bb-6b076fa1b18c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;font-sans text-gray-900 antialiased&quot;]/div[@class=&quot;min-h-screen flex items-center justify-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8&quot;]/div[@class=&quot;max-w-md w-full space-y-8&quot;]/div[@class=&quot;rounded bg-white max-w-md rounded overflow-hidden shadow-xl p-5&quot;]/form[@class=&quot;space-y-4&quot;]/div[@class=&quot;rounded-md shadow-sm -space-y-px&quot;]/div[@class=&quot;grid gap-6&quot;]/div[@class=&quot;col-span-12&quot;]/span[@class=&quot;text-danger&quot;]</value>
+      <webElementGuid>f99165ae-00dd-481a-85c5-b675de27a260</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/following::span[1]</value>
+      <webElementGuid>1bc8ff0e-c82a-4574-af70-005a976ccae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Career'])[1]/following::span[1]</value>
+      <webElementGuid>5343378b-ebdd-4012-bd55-887eecd59428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email address'])[1]/preceding::span[1]</value>
+      <webElementGuid>20ad1b59-9e56-4ce7-b20f-5c94a9db97d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone number'])[1]/preceding::span[1]</value>
+      <webElementGuid>f0cafa5e-e099-4c29-8e17-a489b10c63de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The name field is required.']/parent::*</value>
+      <webElementGuid>d4fc336b-6550-4ea3-a767-31076a2bea0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>db8ab58a-9650-4395-b161-e367b877cafa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'The name field is required.' or . = 'The name field is required.')]</value>
+      <webElementGuid>f82ecdb1-e140-4fbb-a915-704b318a8148</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
