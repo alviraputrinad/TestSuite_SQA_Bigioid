@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa fungsional dari tombol &quot;Delete&quot;</description>
+   <name>TC_HRD_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f19f03bb-d547-43b6-930b-8e51d4f348c1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1b4cca5-7f13-4df5-8035-55c3c2235414</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>a1b4cca5-7f13-4df5-8035-55c3c2235414</id>
+      <masked>false</masked>
+      <name>rows_before</name>
+   </variable>
+</TestCaseEntity>

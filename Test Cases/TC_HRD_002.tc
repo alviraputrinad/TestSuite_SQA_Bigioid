@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa fungsional dari tombol &quot;Detail&quot;</description>
+   <name>TC_HRD_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>86fdce5d-feaa-4cc3-ae55-f4c298153357</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62ecff69-d1f6-4083-ab3d-9f499b8b25b9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>29dd3be7-fee7-43a4-ba57-90770601a928</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b2390fa1-45aa-48cf-b3fd-29916da25e58</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>62ecff69-d1f6-4083-ab3d-9f499b8b25b9</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>29dd3be7-fee7-43a4-ba57-90770601a928</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b2390fa1-45aa-48cf-b3fd-29916da25e58</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengisian form dengan data yang invalid pada field &quot;Phone number&quot;</description>
+   <name>TC_APPLICANT_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bad2b704-b096-4572-b42b-9109cc31a4b8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengisian form dengan data yang kosong pada field &quot;Description&quot;.</description>
+   <name>TC_APPLICANT_009</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab69940c-b57d-450f-bf26-64e7a241ee84</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa fungsional dari tombol &quot;Proceed&quot;</description>
+   <name>TC_CEO_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0df6d34a-0c10-4f5a-bd03-61a89bcc6d2c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa tombol &quot;Proceed&quot;</description>
+   <name>TC_HRD_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09e477da-2644-4149-881c-e57d41ed2d83</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3be3fd4b-e31c-4c38-8dbd-9a59500189a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>3be3fd4b-e31c-4c38-8dbd-9a59500189a0</id>
+      <masked>false</masked>
+      <name>rows_before</name>
+   </variable>
+</TestCaseEntity>
